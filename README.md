@@ -11,15 +11,18 @@
 Исключения перехватываются и выводятся с помощью `__toString()`.
 
 ## Пример запуска
-*в терминале*
-\n php index.php
-Пример вывода:
-Enter a number: 2
-Message: Attempt #1
-This number is even
+*в терминале
+
+*php index.php  
+Пример вывода:  
+Enter a number: 2  
+Message: Attempt #1  
+This number is even*
 
 ## Структура
 
 MyException — пользовательское исключение с дополнительным объектом.
+
 Even / Odd — классы, описывающие чётное/нечётное число.
+
 Основной цикл с 3 попытками.
