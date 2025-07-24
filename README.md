@@ -12,7 +12,7 @@
 
 ## Пример запуска
 *в терминале*
-php index.php
+\n php index.php
 Пример вывода:
 Enter a number: 2
 Message: Attempt #1
